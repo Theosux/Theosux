@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theosux&label=Profile%20views&color=0e75b6&style=flat" alt="theosux" /> </p>
 
-- 🔭 I’m currently working on [Le mot écrit.](https://projet-en-francais.vercel.app)
+- 🔭 My biggest projects:
+-  [Le mot écrit.](https://projet-en-francais.vercel.app)
+-  [Hackathon.] ()
 
-- 🌱 I’m currently learning **React, Next.js, Chakra UI.**
+- 🌱 I’m currently learning **Fullstack, Cybersec, AI**
 
 - 📫 How to reach me **cotovanu3teodor12@gmail.com**
 
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_cotzoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cotzoo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/teosux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teosux" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
