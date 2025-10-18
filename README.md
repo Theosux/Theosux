@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theosux&show_icons=true&locale=en&layout=compact" alt="theosux" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theosux&show_icons=true&locale=en" alt="theosux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theosux&" alt="theosux" /></p>
