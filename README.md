@@ -7,7 +7,7 @@
 
 - 🔭 My biggest projects:
 -  [Le mot écrit.](https://projet-en-francais.vercel.app)
--  [Hackathon.] ()
+-  [Craiova Hackathon.] (https://github.com/tudor036/Agentic-AI-App/tree/master)
 
 - 🌱 I’m currently learning **Fullstack, Cybersec, AI**
 
