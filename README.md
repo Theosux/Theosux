@@ -3,11 +3,11 @@
 
 - My biggest projects:
 -  [Resto](https://restonow.app)
--  [ShipIt](https://github.com/Theosux/ShipIt) (1-day project)
--  [Le mot écrit.](https://projet-en-francais.vercel.app)
--  [Craiova Hackathon.](https://github.com/tudor036/Agentic-AI-App/tree/master)
 -  [Cloudflight Coding Contest Classic](https://github.com/Theosux/ccc-ai-engineer)
 -  [Cloudflight Coding Contest Data/AI](https://github.com/Theosux/ccc-ai-engineer-data-ai)
+-  [ShipIt](https://github.com/Theosux/ShipIt) (mvp challenge)
+-  [Le mot écrit.](https://projet-en-francais.vercel.app)
+-  [Craiova Hackathon.](https://github.com/tudor036/Agentic-AI-App/tree/master)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
