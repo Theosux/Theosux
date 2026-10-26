@@ -3,8 +3,8 @@
 
 - My biggest projects:
 -  [Resto](https://restonow.app)
--  [Cloudflight Coding Contest Classic](https://github.com/Theosux/ccc-ai-engineer)
--  [Cloudflight Coding Contest Data/AI](https://github.com/Theosux/ccc-ai-engineer-data-ai)
+-  [Cloudflight Coding Contest Classic](https://github.com/Theosux/ccc-ai-engineer) (winner: 3rd place local; 9th place world)
+-  [Cloudflight Coding Contest Data/AI](https://github.com/Theosux/ccc-ai-engineer-data-ai) (winnder: 2nd place local; 11th place world)
 -  [ShipIt](https://github.com/Theosux/ShipIt) (mvp challenge)
 -  [Le mot écrit.](https://projet-en-francais.vercel.app)
 -  [Craiova Hackathon.](https://github.com/tudor036/Agentic-AI-App/tree/master)
